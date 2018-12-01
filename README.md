@@ -8,5 +8,5 @@ twitter_imgs_mysql and twitter_imgs_MongoDB are the main part of this project. T
 
 To run this project:
 
-  mkdir twitter_pics
-  python3 miniproject3_main.py
+    mkdir twitter_pics
+    python3 miniproject3_main.py
