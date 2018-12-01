@@ -10,3 +10,5 @@ To run this project:
 
     mkdir twitter_pics
     python3 miniproject3_main.py
+    
+Since it's an update version of mini project 1, the same contents can be found in the "mini project 3" branch of the "mini project 1" repo.
